@@ -15,10 +15,16 @@ Index b-hood.ro: index-bhood
 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-Backend - Typescript
+Backend - JavaScript (soon TS)
+
 Frontend - HTML5/CSS3, JavaScript
+
 Scripting - Python3
+
 Datastores - MySQL
+
 Infrastucture - Docker
+
 Tools - Github, VS Code, Sublime
+
 Other - Linux
