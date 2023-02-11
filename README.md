@@ -1,16 +1,24 @@
-### Hi there 👋
+👨‍💻 What I do
+💼 I'm working on:
 
-<!--
-**arkan1337/arkan1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+beta-tester & support bugs at rage.b-hood.ro.
+✨ I'm maintaining:
 
-Here are some ideas to get you started:
+[Project B-HOOD] - an samp gamemode based on the b-hood community.
+🌍 Open Source Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Index b-hood.ro: index-bhood
+🎓 Learning - currently learning JavaScript & TypeScript for ragemp.
+
+😄 Fun fact - There are around 700 separate programming languages.
+
+💻 Tech Stack
+These are my favorite tech stack for building all kinds of stuff.
+
+Backend - Typescript
+Frontend - HTML5/CSS3, JavaScript
+Scripting - Python3
+Datastores - MySQL
+Infrastucture - Docker
+Tools - Github, VS Code, Sublime
+Other - Linux
