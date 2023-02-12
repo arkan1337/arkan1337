@@ -1,10 +1,7 @@
 👨‍💻 What I do
-  - LEARNING JAVASCRIPT
-💼 I'm working on:
-
-  - Project RAGE:MP v0.1 (#fromzeroGM)
-
-🎓 Learning - currently learning JavaScript & TypeScript for RAGE:MP.
+  - LEARNING PHP / HTML / CSS
+  - 
+🎓 Learning - currently learning php / html / css
 
 😄 Fun fact - There are around 700 separate programming languages.
 
